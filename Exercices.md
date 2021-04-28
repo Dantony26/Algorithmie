@@ -1,9 +1,7 @@
-	
-	///////////////////////////////////////////////////
-	////Affecter, écrire et lire dans un algorithme////
-	///////////////////////////////////////////////////
+# Affecter, écrire et lire dans un algorithme////
 
- Exercice 1 :
+
+### Exercice 1 :
 
 Algorithme HelloWorld
 
@@ -17,9 +15,8 @@ Variables
  firstWord <- "Hello"
  secondWord <- "World"
 
-//////////////////////////////////////////////////////////
 
- Exercice 2 :
+### Exercice 2 :
 
 Algorithme Bonjour
 
@@ -33,20 +30,19 @@ Variables
  Read(name)
  Write("Bonjour" name "!")
 
-//////////////////////////////////////////////////////////
 
- Exercice 3 :
+### Exercice 3 :
 
  168
 
-//////////////////////////////////////////////////////////
 
 
-	//////////////////////
-	////Les Conditions////
-	//////////////////////
 
-Exercice 1 :
+	
+# Les Conditions
+
+
+### Exercice 1 :
 
 Algorithme Users
 
@@ -80,9 +76,9 @@ Variables
 
 EndIf
 
-//////////////////////////////////////////////////////////
 
-Exercice 2 :
+
+### Exercice 2 :
 
 Algorithme MultipleOfFour
 
@@ -110,20 +106,14 @@ Variables
 EndIf
 
 
-//////////////////////////////////////////////////////////
-
-
-Exercice 3 :
+### Exercice 3 :
 
  Surveillez votre poids, votre IMC est de : 27.94645772118838
 
 
-//////////////////////////////////////////////////////////
+
+# Les boucles
 
 
-	///////////////////
-	////Les boucles////
-	///////////////////
-
-Exercice 1 :
+### Exercice 1 :
 
