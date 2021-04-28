@@ -24,15 +24,15 @@
 
 	Variables
 
- 	name : string 
+ 	 name : string 
 	
 	**Instructions**
 
- 	Write("Quel est votre nom ?")
+ 	 Write("Quel est votre nom ?")
  
- 	Read(name)
+ 	 Read(name)
  
- 	Write("Bonjour" name "!")
+ 	 Write("Bonjour" name "!")
 
 
 ### Exercice 3 :
@@ -49,19 +49,19 @@
 
 	Variables 
 
-	age : integer
+	 age : integer
  
-	gender : string
+	 gender : string
 
 	**Instructions** 
 
- 	  Write("Quel est votre age ?")
+ 	   Write("Quel est votre age ?")
  
- 	  Read(age)
+ 	   Read(age)
  
- 	  Write("Quel est votre genre ?")
+ 	   Write("Quel est votre genre ?")
  
- 	  Read(gender)
+ 	   Read(gender)
 
  	  if age >= 18 and gender == homme then 
 
@@ -91,21 +91,21 @@
  
 	 number1 : integer
  
- 	number2 : integer
+ 	 number2 : integer
  
- 	result : integer
+ 	 result : integer
 
 	**Instructions**
 
-	  Write("Premier chiffre :")
+	   Write("Premier chiffre :")
  
- 	  Read(number1)
+ 	   Read(number1)
  
- 	  Write("Deuxieme chiffre :")
+ 	   Write("Deuxieme chiffre :")
  
- 	  Read(number2)
+ 	   Read(number2)
  
- 	  result <- number1 / number2
+ 	   result <- number1 / number2
 
 	  if result % 4 = 0
 
