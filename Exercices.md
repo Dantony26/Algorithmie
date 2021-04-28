@@ -63,7 +63,7 @@
  
  	   Read(gender)
 
- 	  if age >= 18 and gender == homme then 
+ 	  if age >= 18 and gender == "homme" then 
 
  	  	Write("Vous êtes un homme et vous êtes majeur")
 
@@ -71,7 +71,7 @@
 
   	  	Write("Vous êtes un homme et vous êtes mineur
 
- 	  ElseIf age >= 18 and gender == femme then 
+ 	  ElseIf age >= 18 and gender == "femme" then 
 
   	 	 Write("Vous êtes une femme et vous êtes majeure")
 
