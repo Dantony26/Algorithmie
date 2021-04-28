@@ -3,24 +3,24 @@
 
 ### Exercice 1 :
 
-Algorithme HelloWorld
+	## Algorithme HelloWorld
 
-Variables
+	Variables
 
- firstWord : string
- 
- secondWord : string
+	 firstWord : string
 
-**Instructions**
+	 secondWord : string
 
- firstWord <- "Hello"
- 
- secondWord <- "World"
+	**Instructions**
+
+	 firstWord <- "Hello"
+
+	 secondWord <- "World"
 
 
 ### Exercice 2 :
 
-    Algorithme Bonjour
+	## Algorithme Bonjour
 
 	Variables
 
@@ -45,7 +45,7 @@ Variables
 
 ### Exercice 1 :
 
-	Algorithme Users
+	## Algorithme Users
 
 	Variables 
 
@@ -85,7 +85,7 @@ Variables
 
 ### Exercice 2 :
 
-	Algorithme MultipleOfFour
+	## Algorithme MultipleOfFour
 
 	Variables
  
