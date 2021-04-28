@@ -107,7 +107,7 @@
  
  	   result <- number1 / number2
 
-	  if result % 4 = 0
+	  if result % 4 == 0
 
   	  	Write("Oui")
  
