@@ -8,108 +8,119 @@ Algorithme HelloWorld
 Variables
 
  firstWord : string
+ 
  secondWord : string
 
 **Instructions**
 
  firstWord <- "Hello"
+ 
  secondWord <- "World"
 
 
 ### Exercice 2 :
 
-Algorithme Bonjour
+    Algorithme Bonjour
 
-Variables
+	Variables
 
- name : string 
+ 	name : string 
+	
+	**Instructions**
 
-**Instructions**
-
- Write("Quel est votre nom ?")
- Read(name)
- Write("Bonjour" name "!")
+ 	Write("Quel est votre nom ?")
+ 
+ 	Read(name)
+ 
+ 	Write("Bonjour" name "!")
 
 
 ### Exercice 3 :
 
- 168
+	168
 
 
-
-
-	
 # Les Conditions
 
 
 ### Exercice 1 :
 
-Algorithme Users
+	Algorithme Users
 
-Variables 
+	Variables 
 
- age : integer
- gender : string
+	age : integer
+ 
+	gender : string
 
-**Instructions** 
+	**Instructions** 
 
- Write("Quel est votre age ?")
- Read(age)
- Write("Quel est votre genre ?")
- Read(gender)
+ 	  Write("Quel est votre age ?")
+ 
+ 	  Read(age)
+ 
+ 	  Write("Quel est votre genre ?")
+ 
+ 	  Read(gender)
 
- if age >= 18 and gender == homme then 
+ 	  if age >= 18 and gender == homme then 
 
-  Write("Vous êtes un homme et vous êtes majeur")
+ 	  	Write("Vous êtes un homme et vous êtes majeur")
 
- Else 
+   	  Else 
 
-  Write("Vous êtes un homme et vous êtes mineur
+  	  	Write("Vous êtes un homme et vous êtes mineur
 
- ElseIf age >= 18 and gender == femme then 
+ 	  ElseIf age >= 18 and gender == femme then 
 
-  Write("Vous êtes une femme et vous êtes majeure")
+  	 	 Write("Vous êtes une femme et vous êtes majeure")
 
- Else 
+ 	  Else 
 
-  Write("Vous êtes une femme et vous êtes mineure")
+  	  	Write("Vous êtes une femme et vous êtes mineure")
 
-EndIf
+	  EndIf
 
 
 
 ### Exercice 2 :
 
-Algorithme MultipleOfFour
+	Algorithme MultipleOfFour
 
-Variables
+	Variables
  
- number1 : integer
- number2 : integer
- result : integer
-
-**Instructions**
- Write("Premier chiffre :")
- Read(number1)
- Write("Deuxieme chiffre :")
- Read(number2)
- result <- number1 / number2
-
- if result % 4 = 0
-
-  Write("Oui")
+	 number1 : integer
  
- Else 
+ 	number2 : integer
+ 
+ 	result : integer
 
-  Write("Non") 
+	**Instructions**
 
-EndIf
+	  Write("Premier chiffre :")
+ 
+ 	  Read(number1)
+ 
+ 	  Write("Deuxieme chiffre :")
+ 
+ 	  Read(number2)
+ 
+ 	  result <- number1 / number2
+
+	  if result % 4 = 0
+
+  	  	Write("Oui")
+ 
+ 	  Else 
+
+		Write("Non") 
+
+	  EndIf
 
 
 ### Exercice 3 :
 
- Surveillez votre poids, votre IMC est de : 27.94645772118838
-
+	Surveillez votre poids, votre IMC est de : 27.94645772118838
 
 
 # Les boucles
