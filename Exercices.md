@@ -307,3 +307,8 @@
 	
 		result <- result * 60
 	
+
+
+## Exercice 3 :
+
+	15372
