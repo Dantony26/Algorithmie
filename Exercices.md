@@ -247,4 +247,63 @@
 	une erreur
 	  
 	
+
+# Les fonctions
+
+
+## Exercice 1 :
+
+
+	##Sub Algorithme SumNumbers 
+	  	
+	Output parameters
+	
+	  result : integer
 	  
+	Variables 
+	
+	  number1 : integer
+	  
+	  number2 : integer
+	  
+	**Instructions**
+	
+		number1 <- 5
+		
+		number2 <- 2
+		
+		result <- number1 + number2
+	
+	
+	##Algorithme MultiplyResult
+	
+		result <- result * 5
+		
+
+## Exercice 2 :
+
+	##Sub Algorithme ModuloNumbers
+	  	
+	  Output parameters
+	
+	  result : float
+	  
+	Variables 
+	
+	  number1 : integer
+	
+	  number2 : integer
+	  
+	**Instructions**
+	
+		number1 <- 68
+		
+		number2 <- 11
+		
+		result <- number1 % number2
+	
+	
+	##Algorithme MultiplyResult
+	
+		result <- result * 60
+	
