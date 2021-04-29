@@ -93,7 +93,7 @@
  
  	 number2 : integer
  
- 	 result : integer
+ 	 result : float
 
 	**Instructions**
 
