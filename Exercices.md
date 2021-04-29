@@ -189,26 +189,20 @@
 	  
 	  resultCalc : integer
 	  
-	  i : integer
+	  count : integer
 	  
 	**Instructions**
 	
 	  resultCalc <- 1
-	  
-	  i <- 0
-	  
+		  
 	  numbers[] <- numbers[5, 56, 250, 12, 2, 99, 78, 465, 123, 195]
 	  
-	  For numbers[] from 0 to 9 do 
+	  For count from 0 to 9
 	  
-	  	resultCalc <- resultCalc * numbers[i]
-		
-		i++
+	  	resultCalc <- resultCalc * numbers[count]
 		
 	  EndFor
-	  
-	  Write(resultCalc)
-	  
+	  	  
 
 ### Exercice 2 :
 
@@ -217,32 +211,40 @@
 	  
 	Variables
 	
-	  clients[5] : string array
+	  clients[5] : array of date arrays
 	
-	  client[] : string array
+	  count : integer
 	  
+	  secondCount : integer	  
 	
 	**Instructions**
 	
-	  client[] <- client[prenom, nom, email]
+	  clienst[0] <- client[prenom0, nom0, email]
 	  
-	  clients[] <- client[]
+	  clienst[1] <- client[prenom1, nom1, email]
 	  
+	  clienst[2] <- client[prenom2, nom2, email]
 	  
-	  foreach clients[] do 
+	  clienst[3] <- client[prenom3, nom3, email]
 	  
-	  	Write(client[0])
+	  clienst[4] <- client[prenom4, nom4, email]
+	  
+
+	  For count from 0 to 4
+	  	
+		For secondCount from 0 to 2
 		
-		Write(client[1])
-		
-		Write(client[2])
+			Write(clients[count][secondCount])
+			
+	  	EndFor
 	  
-	  EndForeach
+	  secondCount <- 0
 	  
+	  EndFor
 
 ## Exercice 3 : 
 
-	10
+	une erreur
 	  
 	
 	  
