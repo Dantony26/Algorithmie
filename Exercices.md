@@ -138,7 +138,7 @@
 	
 	  count <- 0
 	  
-	  For count <= 30 with a step of 5
+	  For count from 0 to 30 with a step of 5
 	  
 	  	if count % 2 == 0 then 
 			
@@ -147,6 +147,7 @@
 			Write("Oops")
 			
 		EndIf
+	  EndFor
 		
 
 ### Exercice 2 :
