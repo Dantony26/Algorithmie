@@ -168,7 +168,7 @@
 		
 		Write("Il vous reste" bankAccount "sur votre compte")
 	
-	  WhileEnd
+	  EndWhile
 	  
 	  
 ### Exercice 3 :
