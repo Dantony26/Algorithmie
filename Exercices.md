@@ -1,4 +1,4 @@
-# Affecter, écrire et lire dans un algorithme////
+# Affecter, écrire et lire dans un algorithme
 
 
 ### Exercice 1 :
