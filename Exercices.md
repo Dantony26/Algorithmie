@@ -162,7 +162,7 @@
 	
 	  bankAccount <- 526
 	  
-	  While bankAccount > 0 then 
+	  While bankAccount > 0 do 
 	  
 	  	bankAccount <- bankAccount - 50
 		
