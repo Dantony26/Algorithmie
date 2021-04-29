@@ -176,4 +176,73 @@
 	calc = 55
 	  
 	  
+# Les structures de données (tableaux)
 
+
+### Exercice 1 :
+
+	##Algorithme Multiply
+	  
+	Variables
+	
+	  numbers[10] : integer array
+	  
+	  resultCalc : integer
+	  
+	  i : integer
+	  
+	**Instructions**
+	
+	  resultCalc <- 1
+	  
+	  i <- 0
+	  
+	  numbers[] <- numbers[5, 56, 250, 12, 2, 99, 78, 465, 123, 195]
+	  
+	  For numbers[] from 0 to 9 do 
+	  
+	  	resultCalc <- resultCalc * numbers[i]
+		
+		i++
+		
+	  EndFor
+	  
+	  Write(resultCalc)
+	  
+
+### Exercice 2 :
+
+
+	##Algorithme Multiply
+	  
+	Variables
+	
+	  clients[5] : string array
+	
+	  client[] : string array
+	  
+	
+	**Instructions**
+	
+	  client[] <- client[prenom, nom, email]
+	  
+	  clients[] <- client[]
+	  
+	  
+	  foreach clients[] do 
+	  
+	  	Write(client[0])
+		
+		Write(client[1])
+		
+		Write(client[2])
+	  
+	  EndForeach
+	  
+
+## Exercice 3 : 
+
+	10
+	  
+	
+	  
