@@ -219,15 +219,15 @@
 	
 	**Instructions**
 	
-	  clienst[0] <- client[prenom0, nom0, email]
+	  clients[0] <- client[prenom0, nom0, email]
 	  
-	  clienst[1] <- client[prenom1, nom1, email]
+	  clients[1] <- client[prenom1, nom1, email]
 	  
-	  clienst[2] <- client[prenom2, nom2, email]
+	  clients[2] <- client[prenom2, nom2, email]
 	  
-	  clienst[3] <- client[prenom3, nom3, email]
+	  clients[3] <- client[prenom3, nom3, email]
 	  
-	  clienst[4] <- client[prenom4, nom4, email]
+	  clients[4] <- client[prenom4, nom4, email]
 	  
 
 	  For count from 0 to 4
