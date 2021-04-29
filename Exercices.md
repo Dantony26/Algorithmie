@@ -128,3 +128,51 @@
 
 ### Exercice 1 :
 
+	## Algorithme Count
+	
+	Variables
+	
+	  count : integer
+	  
+	**Instructions**
+	
+	  count <- 0
+	  
+	  For count <= 30 with a step of 5
+	  
+	  	if count % 2 then 
+			
+			Write(count)
+		Else 
+			Write("Oops")
+			
+		EndIf
+		
+
+### Exercice 2 :
+
+	## Algorithme BankAccount
+	
+	Variables
+	
+	  bankAccount : float
+	
+	**Instructions**
+	
+	  bankAccount <- 526
+	  
+	  While bankAccount > 0 then 
+	  
+	  	bankAccount <- bankAccount - 50
+		
+		Write("Il vous reste" bankAccount "sur votre compte")
+	
+	  WhileEnd
+	  
+	  
+### Exercice 3 :
+
+	calc = 55
+	  
+	  
+
