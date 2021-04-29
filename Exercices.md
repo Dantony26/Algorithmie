@@ -140,7 +140,7 @@
 	  
 	  For count <= 30 with a step of 5
 	  
-	  	if count % 2 then 
+	  	if count % 2 == 0 then 
 			
 			Write(count)
 		Else 
